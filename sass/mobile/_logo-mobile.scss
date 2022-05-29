@@ -1,0 +1,22 @@
+.logo {
+  color: $logo-web-color;
+  font-family: "Raleway";
+  //   padding-top: 16px;
+  //   padding-bottom: 16px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.1;
+}
+.logo__web {
+  color: $accent-color;
+}
+
+.footer__logo-studio {
+  color: $main-background-color;
+}
+
+.footer .logo {
+  margin-left: 148px;
+  margin-right: 148px;
+  padding: 0px;
+}
