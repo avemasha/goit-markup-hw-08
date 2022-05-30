@@ -311,6 +311,14 @@ summary {
   padding: 0px;
 }
 
+.nav-list {
+  display: none;
+}
+
+.contacts-list {
+  display: none;
+}
+
 .page-header {
   background-color: #ffffff;
   border-bottom: 1px solid #ececec;
@@ -324,14 +332,6 @@ summary {
   padding: 0;
   border: none;
   background-color: transparent;
-}
-
-.nav-list {
-  display: none;
-}
-
-.contacts-list {
-  display: none;
 }
 
 .projects {
